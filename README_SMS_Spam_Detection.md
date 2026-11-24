@@ -92,4 +92,5 @@ This project demonstrates binary text classification using TF-IDF and Logistic R
 - This educational model should not be used as the only spam-protection system.
 
 ## Author
-Add your name, roll number, college, and course details here.
+Gayatri Tawade,AD3339.
+
